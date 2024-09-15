@@ -2,3 +2,5 @@ This is a branchB file
 This is a branchA file
 
 squash merge
+
+rebase merge
